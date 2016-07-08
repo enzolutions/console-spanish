@@ -1,0 +1,13 @@
+{
+    "name": "drupal/console-spanish",
+    "description": "Drupal Console Spanish language package",
+    "type": "drupal/console-language",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "enzo - Eduardo Garcia",
+            "email": "enzo@anexusit.com"
+        }
+    ],
+    "require": {}
+}
